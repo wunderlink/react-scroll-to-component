@@ -1,6 +1,6 @@
 {
-  "name": "react-scroll-to-component",
-  "version": "1.0.2",
+  "name": "ssr-react-scroll-to-component",
+  "version": "1.0.0",
   "description": "smooth scrolling to react component via reference",
   "main": "index.js",
   "repository": {
@@ -12,7 +12,7 @@
     "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0"
   },
   "dependencies": {
-    "ssr-scroll-to": "0.0.2"
+    "ssr-scroll-to": "git+ssh://git@github.com:wunderlink/ssr-scroll-to.git"
   },
   "keywords": [
     "react",
