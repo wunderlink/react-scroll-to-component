@@ -1,5 +1,5 @@
 var ReactDOM = require('react-dom');
-var scroll = require('scroll-to');
+var scroll = require('ssr-scroll-to');
 
 function calculateScrollOffset(element, offset, alignment) {
   var body = document.body,
