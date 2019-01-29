@@ -12,7 +12,7 @@
     "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0"
   },
   "dependencies": {
-    "ssr-scroll-to": "git+ssh://git@github.com:wunderlink/ssr-scroll-to.git"
+    "ssr-scroll-to": "wunderlink/ssr-scroll-to"
   },
   "keywords": [
     "react",
